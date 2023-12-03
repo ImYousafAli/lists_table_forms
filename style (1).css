@@ -1,0 +1,170 @@
+/* UNORDERED LIST */
+/* ul{
+    list-style-type: square;
+} */
+
+/* ORDERED LIST */
+/* ol{
+    list-style-type: decimal-leading-zero;
+} */
+
+/* IMAGES FOR BULLET */
+/* ul{
+    list-style-image: url('./images/icons8-arrow-20.png');
+}
+
+li{
+    margin: 10px 0px 0px 0px;
+} */
+
+/* LIST STYLE POSITION */
+
+/* .illuminations{
+    list-style-position: outside;
+}
+
+.season{
+    list-style-position: inside;
+} */
+
+/* LIST SHORTHAND */
+
+/* ul{
+    list-style: inside square;
+} */
+
+/* TABLE PROPERTIES */
+
+/* table{
+    width: 400px;
+    border: 2px solid red;
+    padding: 20px;
+    text-transform: capitalize;
+    letter-spacing: 6px;
+    font-size: 20px;
+    border-top: 2px red solid;
+    border-bottom: 2px solid green;
+}
+
+table, td, th{
+    border: 2px solid red;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table{
+    background-color: aqua;
+}
+
+tr:hover{
+    background-color: violet;
+    cursor: pointer;
+}
+
+td{
+    padding: 20px;
+}
+
+th{
+    font-weight: bolder;
+    color: blue;
+    background-color: black;
+}
+
+.even{
+    background-color: yellow;
+} */
+
+/* EMPTY CELLS */
+
+/* td{
+    border: 2px saddlebrown solid;
+    padding: 15px;
+}
+
+table{
+    empty-cells: show;
+} */
+
+/* GAPS BETWEEN CELLS */
+
+/* td{
+    background-color: brown;
+    padding: 15px;
+    border: 2px solid rebeccapurple;
+}
+
+table{
+    border-collapse: collapse;
+} */
+
+/* STYLING FORMS */
+
+/* #ln{
+    margin-top: 5px;
+} */
+
+input#ln{
+    font-size: xx-large;
+    color: red;
+    background-color: brown;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+input#fn{
+    font-size: xx-large;
+    color: red;
+    background-color: brown;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+
+input:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+input:focus{
+    border: 9px solid purple;
+}
+
+#email{
+    background-image: url('./images/icon-3.png');
+    background-repeat: no-repeat;
+    padding-left: 17px;
+    background-size: contain;
+}
+
+#github{
+    background-image: url('./images/icons8-github.png');
+    background-repeat: no-repeat;
+    padding-left: 17px;
+    background-size: contain;
+}
+
+/* STYLING FIELDSET AND LEGEND */
+/* 
+fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+
+
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+} */
+
+    /* CURSOR STYLE */
+/* #btn:hover{
+    cursor: pointer;
+} */
